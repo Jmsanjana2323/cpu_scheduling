@@ -1,5 +1,3 @@
-OWNER: Thomas Zaorski
-EMAIL: zaorst@rpi.edu
 
 I created a c++ program called process_simulator which simulates short term CPU scheduling in an operating system. The 
 following scheduling algorithms are used. There is a context switch time of 14 milliseconds.
